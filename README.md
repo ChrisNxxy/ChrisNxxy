@@ -1,7 +1,7 @@
  # Chris
 
-Me gusta el mundo tech y la ciberseguridad.
+Into tech and cybersecurity.
 
-Ricing y personalización de entornos —  Distros Linux 
+Ricing and environment customization — Distros Linux 
 
 **Stack:** Arch Linux · Python · Bash · Git
